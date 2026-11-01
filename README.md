@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML dashboard for exploring 467 customer complaint records (2011–2020). Every filter and chart click cross-filters all panels, and the KPIs recompute live.
 
-**[▶ Live demo](https://junaidazhar42.github.io/commbank-complaints-dashboard.html/)**
+**[▶ Live demo](https://tomato-sylvia-92.tiiny.site/)**
 
 ![Dashboard screenshot](dashboard_image1.png)
 ![Dashboard screenshot](dashboard_image2.png)
