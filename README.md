@@ -4,7 +4,8 @@ An interactive, single-file HTML dashboard for exploring 467 customer complaint 
 
 **[▶ Live demo](https://junaidazhar42.github.io/commbank-complaints-dashboard/)**
 
-![Dashboard screenshot](screenshot.png)
+![Dashboard screenshot](dashboard_image1.png)
+![Dashboard screenshot](dashboard_image2.png)
 
 ## Business question
 
@@ -56,9 +57,9 @@ Download `commbank_complaints_dashboard.html` and open it in any modern browser.
 ```
 ├── commbank_complaints_dashboard.html        # the complete dashboard
 ├── README.md
-├── screenshot.png
-└── data/
-    └── commbank_complaints_data.xlsx
+├── dashboard_image1.png
+├── dashboard_image2.png
+└── commbank_complaints_data.xlsx
 ```
 
 ## Design
